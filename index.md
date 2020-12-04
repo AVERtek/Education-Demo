@@ -1,8 +1,8 @@
-# "TOUCHLESS BROWSING" 
+# "ORBITING SOLAR SYSTEM" 
 
 ---
 
-### display a 3D product image, animate, annotate, add audio storytelling to help educate the consumer to your product's unique selling features 
+### display interactive 3D images, animate, annotate, include audio storytelling to help educate and train 
 <!-- Loads <model-viewer> for old browsers like IE11: -->
   <script nomodule="" src="https://unpkg.com/@google/model-viewer/dist/model-viewer-legacy.js">
   </script>
@@ -23,7 +23,7 @@
   <!-- OPTIONAL: Include prismatic.js for Magic Leap support -->
   <!--<script src="https://unpkg.com/@magicleap/prismatic/prismatic.min.js"></script>-->
 
-<model-viewer loading="eager" id="paused-change-demo" camera-controls autoplay animation-name="natural_orbit" ar shadow-intensity="1" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Orbiting_Solar_System.usdz" alt="Orbital Solar System" ar-scale="auto" style="width: 95%; height: 500px" exposure="0.5">  <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
+<model-viewer loading="eager" id="paused-change-demo" camera-controls autoplay animation-name="natural_orbit" ar shadow-intensity="1" src="Models/scene.gltf" ar="" ar-modes="scene-viewer webxr quick-look" ios-src="Orbiting_Solar_System.usdz" alt="Orbiting Solar System" ar-scale="auto" style="width: 95%; height: 500px" exposure="0.5">  <button slot="ar-button" style="background-color: white; border-radius: 8px; border: 1 px solid black; position: absolute; top: 20px; right: 20px; ">
       👋 AR Click Here
   </button>
 </model-viewer>
