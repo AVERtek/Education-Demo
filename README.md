@@ -1,2 +1,2 @@
-# Education-Demo
-Education and training demo
+# Art Demo
+AR Art
